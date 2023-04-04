@@ -21,7 +21,6 @@
 #include <windows.h>
 #include <dbghelp.h>
 #include <tchar.h>
-#include "obfuscate.h"
 
 #pragma comment(lib, "user32.lib")
 #pragma comment (lib, "dbghelp.lib")
